@@ -27,6 +27,16 @@ Alongside my technical journey, I hold a **Master's degree in Space Navigation**
 
 ---
 
+## 📊 GitHub Analytics
+
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirmasoudnady&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirmasoudnady&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samirmasoudnady&theme=radical)
+
+---
+
 ## 📂 Featured Projects
 - 📈 **Predictive Modeling** – Built ML models with TensorFlow/Keras and deployed via Streamlit  
 - 🧮 **Data Analysis Applications** – Applied Python & SQL to uncover insights from complex datasets  
@@ -39,6 +49,10 @@ Alongside my technical journey, I hold a **Master's degree in Space Navigation**
 - 📱 Phone: [+20 01098206721](tel:+2001098206721)  
 - 🔗 LinkedIn: [linkedin.com/in/samirmasoud7](https://www.linkedin.com/in/samirmasoud7)  
 - 💻 GitHub: [github.com/samirmasoudnady](https://github.com/samirmasoudnady)
+
+---
+
+![Samir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samirmasoudnady&theme=redical)
 
 ---
 
