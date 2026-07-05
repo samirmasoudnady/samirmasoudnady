@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samir Masoud
 
-🎯 **Aerospace Engineer | Data Scientist | Data Analyst **
+🎯 Aerospace Engineer | Data Scientist | Data Analyst 
 
 Welcome to my GitHub profile!  
 I am passionate about **data science, machine learning, and deep learning**. Over the past year, I have invested in self-learning and completed professional diplomas in **Data Science & Machine Learning** and **Deep Learning** at **Epsilon Academy**, gaining hands-on experience with Python, SQL, TensorFlow, Keras, and Scikit-Learn.  
