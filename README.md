@@ -29,7 +29,7 @@ Alongside my technical journey, I hold a **Master's degree in Space Navigation**
 
 ## 📊 GitHub Analytics
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirmasoudnady&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Samir's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samirmasoudnady&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirmasoudnady&layout=compact&theme=radical)
 
