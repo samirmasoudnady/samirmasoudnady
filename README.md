@@ -35,6 +35,7 @@ Alongside my technical journey, I hold a **Master's degree in Space Navigation**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samirmasoudnady&theme=radical)
 
+
 ---
 
 ## 📂 Featured Projects
